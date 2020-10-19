@@ -1,7 +1,7 @@
 {
     "name": "rev_1",
-    "vendorId": "0xACAB",
-    "productId": "0x0101",
+    "vendorId": "0xFEED",
+    "productId": "0x4132",
     "lighting": "none",
     "matrix": {
         "rows": 5,
